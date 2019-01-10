@@ -14,7 +14,6 @@ myApp.controller('myCtrl', ['$scope', function($scope) {
       console.log("Collected Data:", data)
     }
   });
-  First data
 
 
   branch.first(function(err, data) {
